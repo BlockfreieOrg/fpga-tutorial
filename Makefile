@@ -12,5 +12,7 @@ build/blinky.asc: build/blinky.blif
 build/blinky.bin: build/blinky.asc
 	icepack build/blinky.asc build/blinky.bin
 
+upload: build/blinky.bin
+	iceprog build/blinky.bin
 clean:
 	rm -rf build

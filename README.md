@@ -14,7 +14,7 @@ with fpga's in no time.
 
 1. apt get
 
-	`sudo apt-get install verilog icestorm fpga-icestorm gtkwav`
+	`sudo apt-get install verilog fpga-icestorm gtkwave arachne-pnr`
 
 2. light on
 
