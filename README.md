@@ -29,3 +29,5 @@ with fpga's in no time.
 References :
 
 [T-bird Signal on iCEstick](http://programfpgas.com/node/10)
+[https://github.com/Obijuan/open-fpga-verilog-tutorial](open-fpga-verilog-tutorial)
+[https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Home_EN](open-fpga-verilog-tutorial)
